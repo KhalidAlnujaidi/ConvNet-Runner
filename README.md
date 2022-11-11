@@ -8,6 +8,8 @@ A desktop GUI application that enables the training, testing, evaluation of a cu
 Train and test a custom image classifier with only a few button clicks.
 
 
+Demo : 
+
 Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
 
 
