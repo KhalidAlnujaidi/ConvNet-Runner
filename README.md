@@ -15,5 +15,9 @@ Instalation & use tutorial:
 
 Code explanation & what can be improved: coming soon.
 
+To do:
+  - Compress into an exicutable standalone program
+  - Include a section within the window that shows the output of the terminal
+
 
 This project is based on the development of an older project CNN-Experiment-Runner: https://github.com/KhalidAlnujaidi/CNN-Experiment-Runner
