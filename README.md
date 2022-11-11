@@ -15,7 +15,7 @@ Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
 
 
 
-Code explanation & what can be improved: coming soon.
+Code walkthrough & what can be improved: coming soon.
 
 To do:
   - Compress into an exicutable standalone program
