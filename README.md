@@ -5,7 +5,7 @@
 A desktop GUI application that enables the training, testing, evaluation of a custom trained Image Classifier using State-of-Art pre-trained CNN models.
 
 
-Train and test a custom image classifier only a few button clicks.
+Train and test a custom image classifier with only a few button clicks.
 
 
 Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
