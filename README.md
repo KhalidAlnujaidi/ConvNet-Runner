@@ -10,4 +10,7 @@ Instalation & use tutorial:
 
 
 
-Code explanation & what can be improved:
+Code explanation & what can be improved: coming soon.
+
+
+This project is based on the development of an older project CNN-Experiment-Runner: 
