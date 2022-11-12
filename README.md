@@ -15,6 +15,8 @@ Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
 
 Code explanation and walkthough: https://youtu.be/neviJTiJbWQ
 
+All the CNN models and operations are downloaded form TensorFlow hub: https://tfhub.dev/
+
 
 To do:
   - Compress into an exicutable standalone program
