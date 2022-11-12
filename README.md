@@ -13,9 +13,8 @@ Demo : https://youtu.be/moriDlpUWUU
 Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
 
 
+Code walkthrough explanation and walkthough: https://youtu.be/neviJTiJbWQ
 
-
-Code walkthrough & what can be improved: coming soon.
 
 To do:
   - Compress into an exicutable standalone program
