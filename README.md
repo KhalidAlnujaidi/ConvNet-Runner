@@ -13,7 +13,7 @@ Demo : https://youtu.be/moriDlpUWUU
 Instalation & use tutorial: https://youtu.be/_8V9j0sGSDQ
 
 
-Code walkthrough explanation and walkthough: https://youtu.be/neviJTiJbWQ
+Code explanation and walkthough: https://youtu.be/neviJTiJbWQ
 
 
 To do:
