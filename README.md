@@ -1,5 +1,6 @@
+<p align="center">
 ![2023_01_19_Khalid_Alnujaidi_tensorflow_thnx](https://user-images.githubusercontent.com/93127443/214783635-4e162d9d-8a24-4e7a-bbe6-5ebc7bd34b2b.png)
-
+</p>
 
 # ConvNet-Runner
 
