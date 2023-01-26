@@ -1,5 +1,5 @@
-<center>![2023_01_19_Khalid_Alnujaidi_tensorflow_thnx](https://user-images.githubusercontent.com/93127443/214783997-3fc59d74-cffd-47cc-a5bc-c4e1163b7048.png)
-</center>
+![2023_01_19_Khalid_Alnujaidi_tensorflow_thnx](https://user-images.githubusercontent.com/93127443/214784064-8650aff3-3875-41fd-8c88-8fc8b2cba6ea.png)
+
 
 # ConvNet-Runner
 
